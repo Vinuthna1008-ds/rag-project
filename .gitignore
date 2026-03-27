@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+.web/
+.reflex/
+chroma_db/
+documents/
+.states/
